@@ -1,0 +1,74 @@
+{
+	"songs":[
+		{
+			"id":0,
+			"name":"Thunder",
+			"artist":"Imagine Dragons",
+			"song":"audio/01 Thunder.mp3",
+			"image":"img/imaginedragons.jpg",
+		},
+		{
+			"id":1,
+			"name":"Feel It Still",
+			"artist":"Portugal. The Man",
+			"song":"audio/02 FeelItStill.mp3",
+			"image":"img/portugal.jpg",
+		},
+		{
+			"id":2,
+			"name":"Havana",
+			"artist":"Camila Cabello",
+			"song":"audio/03 Havana.mp3",
+			"image":"img/havana.jpg",
+		},
+		{
+			"id":3,
+			"name":"Sorry Not Sorry",
+			"artist":"Demi Lovato",
+			"song":"audio/04 SorryNotSorry.mp3",
+			"image":"img/lovato.jpg",
+		},
+		{
+			"id":4,
+			"name":"What Lovers Do",
+			"artist":"Maroon 5",
+			"song":"audio/05 WhatLoversDo.mp3",
+			"image":"img/maroon5.jpg",
+		},
+		{
+			"id":5,
+			"name":"1-800-273-8255",
+			"artist":"Logic",
+			"song":"audio/06 1-800-273-8255.mp3",
+			"image":"img/logic.jpg",
+		},
+		{
+			"id":6,
+			"name":"Bad At Love",
+			"artist":"Halsey",
+			"song":"audio/07 BadAtLove.mp3",
+			"image":"img/halsey.jpg",
+		},
+		{
+			"id":7,
+			"name":"Strip That Down",
+			"artist":"Liam Payne",
+			"song":"audio/08 StripThatDown.mp3",
+			"image":"img/liam.png",
+		},
+		{
+			"id":8,
+			"name":"Praying",
+			"artist":"Kesha",
+			"song":"audio/09 Praying.mp3",
+			"image":"img/kesha.jpg",
+		},
+		{
+			"id":9,
+			"name":"Kesha",
+			"artist":"Ed Sheeran",
+			"song":"audio/10 Perfect.mp3",
+			"image":"img/ed.jpg",
+		},
+	]
+}

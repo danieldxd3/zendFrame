@@ -1,0 +1,33 @@
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+.zf-green {
+    color: #68b604;
+}
+
+.btn-success {
+    background-color: #0D63CB;
+    background-image: -moz-linear-gradient(top, #70d900, #0D63CB);
+    background-image: -ms-linear-gradient(top, #70d900, #0D63CB);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#70d900), to(#0D63CB));
+    background-image: -webkit-linear-gradient(top, #70d900, #0D63CB);
+    background-image: -o-linear-gradient(top, #70d900, #0D63CB);
+    background-image: linear-gradient(top, #70d900, #0D63CB);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#70d900', endColorstr='#0D63CB', GradientType=0);
+}
+
+.btn-success:hover,
+.btn-success:active,
+.btn-success.active,
+.btn-success.disabled,
+.btn-success[disabled] {
+    background-color: #0D63CB;
+}
+
+div.container a.navbar-brand > img {
+    display: inline;
+    margin-right: 4px;
+    margin-top: -2px;
+}
