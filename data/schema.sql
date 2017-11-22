@@ -1,0 +1,11 @@
+CREATE TABLE album (id INTEGER PRIMARY KEY AUTOINCREMENT, artist varchar(100) NOT NULL, title varchar(100) NOT NULL, pais varchar(100) NOT NULL);
+INSERT INTO album (artist, title, pais) VALUES ('Imagine Dragons', 'Thunder', 'Estados Unidos');
+INSERT INTO album (artist, title, pais) VALUES ('Portugal. The Man', 'Feel It Still', 'Estados Unidos');
+INSERT INTO album (artist, title, pais) VALUES ('Camila Cabello', 'Havana', 'Cuba');
+INSERT INTO album (artist, title, pais) VALUES ('Demi Lovato', 'Sorry Not Sorry', 'Estados Unidos');
+INSERT INTO album (artist, title, pais) VALUES ('Maroon 5', 'What Lovers Do', 'Estados Unidos');
+INSERT INTO album (artist, title, pais) VALUES ('Logic & Alessia Cara & Khalid', '1-800-273-8255', 'Estados Unidos');
+INSERT INTO album (artist, title, pais) VALUES ('Halsey', 'Bad At Love', 'Estados Unidos');
+INSERT INTO album (artist, title, pais) VALUES ('Liam Payne', 'Strip That Down', 'Gran Bretaña');
+INSERT INTO album (artist, title, pais) VALUES ('Kesha', 'Praying', 'Estados Unidos');
+INSERT INTO album (artist, title, pais) VALUES ('Ed Sheeran', 'Perfect', 'Gran Bretaña');
